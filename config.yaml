@@ -1,0 +1,23 @@
+cookie:
+  expiry_days: 30
+  key: random_secret_key
+  name: PHR_Auth_Cookie
+credentials:
+  usernames:
+    khurram:
+      email: abc@gmail.com
+      first_name: khurram
+      last_name: alvi
+      logged_in: false
+      password: $2b$12$IzgaAbt14n8AqhRtB9nNdODPEWK4Jt1DIfchqhFFB7aSDtsaZuud2
+      password_hint: brain
+      roles: null
+    nida:
+      email: arshmanedu123@gmail.com
+      first_name: nida
+      last_name: alvi
+      logged_in: false
+      password: $2b$12$jXiGZT/Cla1Iq1Y0rtzmoeHUaVjez0Jqd4iWvxYTpItVXuQhAJb/u
+      password_hint: desire
+      roles: null
+preauthorized: {}

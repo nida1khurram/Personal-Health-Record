@@ -1,2 +1,2 @@
-# Personal-Health-Record
-python with streamlit 
+run
+uv run streamlit run main.py
